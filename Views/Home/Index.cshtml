@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<h1 class="display-4"> Ken PDF</h1>
+<div class="text-center">
+    
+    <form method="post" asp-controller="TaxInvoice" asp-action="TaxPDFGenerator">
+        <label>&nbsp; </label>
+        <input type="submit" value="Generate PDF" />
+
+    </form>
+
+</div>
+

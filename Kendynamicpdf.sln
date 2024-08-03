@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendynamicpdf", "Kendynamicpdf.csproj", "{E3CD0653-3413-4B1C-A833-0422B4F7A48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3CD0653-3413-4B1C-A833-0422B4F7A48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CD0653-3413-4B1C-A833-0422B4F7A48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CD0653-3413-4B1C-A833-0422B4F7A48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CD0653-3413-4B1C-A833-0422B4F7A48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255C3B16-D5EE-4134-901E-9B23E220B3D1}
+	EndGlobalSection
+EndGlobal
